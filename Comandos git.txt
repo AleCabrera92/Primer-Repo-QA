@@ -1,4 +1,0 @@
-git add .
-git commit -m "PDF Bloque I"
-git pull
-git push origin main // git push
